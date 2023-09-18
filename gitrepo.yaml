@@ -5,7 +5,7 @@ metadata:
   namespace: fleet-default
 spec:
   repo: https://github.com/atoy3731/rancher-app.git
-  branch: helm
+  branch: army
   targets:
   - name: demo
     clusterSelector:
