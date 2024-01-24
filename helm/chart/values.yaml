@@ -8,7 +8,7 @@ image:
   repository: bgregoriusrgs/rancher-demo
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "army"
+  tag: "latest"
 
 config:
   backgroundColor: black
